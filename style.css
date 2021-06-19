@@ -28,8 +28,8 @@ body {
   width: 1000px;
   background-repeat: no-repeat;
   position: absolute;
-  top: -40%;
-  left: -5%;
+  top: -400px;
+  left: -250px;
 }
 
 .bottom-circle {
@@ -38,12 +38,12 @@ body {
   width: 1000px;
   background-repeat: no-repeat;
   position: absolute;
-  bottom: -50%;
-  right: -5%;
+  bottom: -500px;
+  right: -150px;
 }
 
 .profile-card {
-  height: 400px;
+  height: 390px;
   width: 350px;
   border-radius: 15px;
   background: white;
@@ -108,6 +108,7 @@ body {
 }
 
 .number {
+  font-size: 20px;
   font-weight: 700;
   color: hsl(229, 23%, 23%);
 }
